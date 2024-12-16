@@ -17,11 +17,9 @@
 
  
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
- 
-Website:zhanglina94.github.io
+Website:eceeeela.github.io
 - About
 - Projects
 - Blog
-- 
 [![Lina's GitHub stats](https://github-readme-stats.vercel.app/api?username=eceeeela)](https://github.com/anuraghazra/github-readme-stats)
 
